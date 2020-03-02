@@ -1,1 +1,1 @@
-# web-6
+# web-6 Responsive Web practice
